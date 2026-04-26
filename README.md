@@ -1,0 +1,4 @@
+Este projeto foi desenvolvido em JavaScript puro e consiste em um jogo de adivinhação do número secreto. O objetivo é que o usuário tente descobrir um número gerado aleatoriamente pelo sistema dentro de um intervalo definido.
+Durante o desenvolvimento, foram aplicados conceitos fundamentais de programação, como manipulação do DOM, funções, estruturas condicionais, lógica com arrays e geração de números aleatórios. Também foi implementada uma lógica para evitar a repetição de números sorteados até que o ciclo seja reiniciado.
+Além disso, o projeto utiliza a Web Speech API (ResponsiveVoice) para leitura das mensagens em voz alta, tornando a experiência mais interativa e acessível.
+Este projeto foi desenvolvido como parte de um curso, no qual foi realizada apenas a implementação da lógica em JavaScript.
