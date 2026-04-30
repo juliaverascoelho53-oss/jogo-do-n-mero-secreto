@@ -26,14 +26,12 @@ Tecnologias utilizadas
 * CSS
 * JavaScript
 
-  Obs: Foi desenvolvido somente o código JavaScript
+ Obs: Este projeto foi desenvolvido como parte de um curso, com foco na implementação da lógica utilizando JavaScript.
 ______________________________________________________
 
 ## Acesse o projeto
 
 https://jogo-numero-secreto-psi-seven.vercel.app/
 
-## 🎓 Observações
 
-Este projeto foi desenvolvido como parte de um curso, com foco na implementação da lógica utilizando JavaScript.
 
